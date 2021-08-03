@@ -2,6 +2,8 @@
 ## What is CustomCord?
 CustomCord is a custom version of Discord made using Electron. It is based on my old Discord client, [ElectroCord](https://github.com).
 
+![image](https://user-images.githubusercontent.com/57120755/127974275-7a283cdd-9e4d-466c-b16a-78087e1661aa.png)
+
 ## How to install
 Firstly, go to the releases tab and download the latest release.
 
