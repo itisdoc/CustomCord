@@ -1,0 +1,25 @@
+{
+  "name": "customcord",
+  "version": "1.0.0",
+  "description": "A custom discord client :)",
+  "main": "index.js",
+  "dependencies": {
+    "browser-window": "^0.4.0",
+    "electron": "^13.1.7",
+    "express": "^4.17.1",
+    "path": "^0.12.7",
+    "rich-presence-builder": "^0.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "client",
+    "discord",
+    "custom",
+    "javascript"
+  ],
+  "author": "FireyJS",
+  "license": "ISC"
+}
