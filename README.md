@@ -16,7 +16,6 @@ You can use CustomCord to talk and chat with friends, join servers, and more.
 
 ## Notice
 I am not responsible if you get banned off discord from using this client.
-Also, This client is COMPLETELY open-sourced, so if you want, you can fork it and add your own things to it :smile:
 
 ## Contribute
 You want to contribute eh? If so, just ask me on my Discord(``FireyJS#6969``) and I might let you contribute. 
