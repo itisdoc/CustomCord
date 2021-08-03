@@ -1,4 +1,4 @@
-# CustomCord
+# <img src="https://github.com/fireyjs/CustomCord/blob/main/logo.png?raw=true" width="30" height="35"> CustomCord
 ## What is CustomCord?
 CustomCord is a custom version of Discord made using Electron. It is based on my old Discord client, [ElectroCord](https://github.com).
 
