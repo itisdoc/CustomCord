@@ -8,9 +8,7 @@ It barely takes up any memory, and it's really fast (so if you have a not so goo
 ## Install
 
 Install for:
-[Windows]()
-[MacOS]()
-[Linux]()
+[Windows](https://github.com/fireyjs/CustomCord/releases/download/v2.0/electrocord-win_x64.exe)
 
 Once download is finished, extract it, make sure you have these two things:
 - [Node.js](https://nodejs.org)
