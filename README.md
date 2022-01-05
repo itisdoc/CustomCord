@@ -3,7 +3,7 @@
 CustomCord is a custom version of Discord made using Electron. It is based on my old Discord client, [ElectroCord](https://github.com).
 It barely takes up any memory, and it's really fast (so if you have a not so good PC, this is sure to work on your system)!
 
-![image](https://user-images.githubusercontent.com/57120755/127974275-7a283cdd-9e4d-466c-b16a-78087e1661aa.png)
+![image](/ecv2.png)
 
 ## Install
 
