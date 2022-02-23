@@ -1,6 +1,6 @@
 # <img src="https://github.com/fireyjs/CustomCord/blob/main/logo.png?raw=true" width="30" height="35"> CustomCord
 ## What is CustomCord?
-CustomCord is a custom version of Discord made using Neutralino.js. It is based on my old Discord client, [ElectroCord](https://github.com).
+CustomCord is a custom version of Discord made using Neutralino.js. It is based on my old Discord client, [ElectroCord](https://github.com/trisn0w/ElectroCord).
 It barely takes up any memory, and it's really fast (so if you have a not so good PC, this is sure to work on your system)!
 
 ![image](/ecv2.png)
