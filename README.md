@@ -1,6 +1,6 @@
 # <img src="https://github.com/fireyjs/CustomCord/blob/main/logo.png?raw=true" width="30" height="35"> CustomCord
 ## What is CustomCord?
-CustomCord is a custom version of Discord made using Electron. It is based on my old Discord client, [ElectroCord](https://github.com).
+CustomCord is a custom version of Discord made using Neutralino.js. It is based on my old Discord client, [ElectroCord](https://github.com).
 It barely takes up any memory, and it's really fast (so if you have a not so good PC, this is sure to work on your system)!
 
 ![image](/ecv2.png)
@@ -25,7 +25,7 @@ Once download is finished, extract it, make sure you have these two things:
 | Join Voice Channels and Servers | Yes                     |
 | Custom Keybinds                 | No                      |
 | Push to Talk and Voice Activity | Yes                     |
-| Make Custom Rich Presences      | No; Coming Soon!        |
+| Make Custom Rich Presences      | No                      |
 | Spotify Song Detection          | Yes                     |
 | App Overlay                     | No                      |
 
